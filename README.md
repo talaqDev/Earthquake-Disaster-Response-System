@@ -2,51 +2,76 @@
 
 ## Overview
 
-A Java-based disaster response platform that identifies and matches missing persons and pets using DNA profiles and GPS location data following a large-scale earthquake.
+A Java-based disaster response platform designed to identify and match missing persons and pets using DNA profiles and GPS location data following a large-scale earthquake.
+
+The system processes reports from rescue teams and families, filters invalid DNA samples, identifies potential matches, computes disaster zones, and prioritizes cases for emergency response.
+
+---
 
 ## Technologies
 
 - Java
-- Data Structures & Algorithms
-- Graphs
-- Breadth-First Search (BFS)
 - Gradle
+- Data Structures & Algorithms
+- Graph Traversal
+- Breadth-First Search (BFS)
 
-## Features
+---
 
-- DNA profile matching
-- Missing-person identification
-- Geographic clustering
-- Disaster zone analysis
-- Priority-based triage
+## Key Features
 
-## Architecture
+- DNA profile matching and comparison
+- Missing-person and pet identification
+- Geographic disaster-zone analysis
+- Priority-based triage processing
+- Event-driven report handling
+- Match result generation and reporting
 
-### Engine
+---
 
-- MatchEngine
-- DnaComparator
-- DisasterZoneCalculator
-- OrganismFilter
+## System Architecture
 
-### Data Structures
+### Engine Components
 
-- CandidateTree
-- EvidenceChain
-- LocationGraph
-- LocusIndex
-- MatchStack
+- **MatchEngine** – coordinates the matching workflow
+- **DnaComparator** – compares DNA profiles and computes similarity
+- **DisasterZoneCalculator** – determines geographic disaster zones
+- **OrganismFilter** – removes invalid or non-human DNA records
 
-### Models
+### Custom Data Structures
+
+- **CandidateTree** – stores and organizes potential matches
+- **EvidenceChain** – tracks supporting evidence for matches
+- **MatchStack** – manages matching operations
+- **LocationGraph** – models geographic relationships between reports
+- **LocusIndex** – accelerates DNA profile lookup
+
+### Domain Models
 
 - DnaProfile
 - FoundPerson
 - MissingReport
+- DisasterZone
 - MatchResult
 
-## Learning Outcomes
+---
 
-- Custom data structure implementation
-- Graph traversal algorithms
-- Search optimization
-- Event-driven processing
+## Algorithms
+
+- Breadth-First Search (BFS)
+- Graph Traversal
+- Similarity-Based DNA Matching
+- Geographic Clustering
+- Priority-Based Processing
+
+---
+
+## What I Learned
+
+Through this project I gained experience with:
+
+- Designing large Java applications using object-oriented principles
+- Implementing custom data structures and graph-based algorithms
+- Modeling real-world emergency response systems
+- Processing and matching large sets of structured data
+- Organizing software into maintainable packages and components
