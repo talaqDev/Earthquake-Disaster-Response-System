@@ -1,0 +1,6836 @@
+[ {
+  "id" : "FP-0001",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 65,
+  "location" : {
+    "latitude" : 40.9947,
+    "longitude" : 28.9927
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 10.0,
+      "allele2" : null
+    },
+    "D5S818" : {
+      "allele1" : null,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : null,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : null,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 17.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0002",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 69,
+  "location" : {
+    "latitude" : 41.1708,
+    "longitude" : 29.0498
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : null
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 33.2,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : null,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "FP-0003",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 68,
+  "location" : {
+    "latitude" : 41.0065,
+    "longitude" : 29.009
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : null,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : null
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : null
+    },
+    "FGA" : {
+      "allele1" : null,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 13.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "FP-0004",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 48,
+  "location" : {
+    "latitude" : 41.1238,
+    "longitude" : 28.9528
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : null,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : null,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : null
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 24.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "FP-0005",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 24,
+  "location" : {
+    "latitude" : 41.0886,
+    "longitude" : 28.8204
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : null,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : null,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 24.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0006",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 47,
+  "location" : {
+    "latitude" : 41.0744,
+    "longitude" : 29.0197
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : null,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : null,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : null,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 24.0,
+      "allele2" : 30.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 17.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "FP-0007",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 84,
+  "location" : {
+    "latitude" : 40.9805,
+    "longitude" : 28.8888
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 31.2,
+      "allele2" : 32.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "D13S317" : {
+      "allele1" : null,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 22.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 23.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : null,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : null
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 29.0
+    }
+  }
+}, {
+  "id" : "FP-0008",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 77,
+  "location" : {
+    "latitude" : 41.1238,
+    "longitude" : 28.9706
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : null
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : null
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 13.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : null,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "FP-0009",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 66,
+  "location" : {
+    "latitude" : 41.0849,
+    "longitude" : 28.9225
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 27.0
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 20.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : null
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 30.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : null,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0010",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 5,
+  "location" : {
+    "latitude" : 41.1064,
+    "longitude" : 29.0255
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : null,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : null,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 22.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "FP-0011",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 30,
+  "location" : {
+    "latitude" : 41.0877,
+    "longitude" : 29.013
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : null,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : null,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 24.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : null,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "FP-0012",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 30,
+  "location" : {
+    "latitude" : 40.9994,
+    "longitude" : 29.0463
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 21.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : null
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 21.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : null,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "FP-0013",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 24,
+  "location" : {
+    "latitude" : 41.0418,
+    "longitude" : 28.9856
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : null
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : null
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 14.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 15.3
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 21.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "FP-0014",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 71,
+  "location" : {
+    "latitude" : 41.1537,
+    "longitude" : 29.025
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 10.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : null
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.3,
+      "allele2" : null
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "FP-0015",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 34,
+  "location" : {
+    "latitude" : 41.1169,
+    "longitude" : 29.0953
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : null,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 20.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "FP-0016",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 74,
+  "location" : {
+    "latitude" : 41.1174,
+    "longitude" : 29.0102
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : null,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : null
+    },
+    "D19S433" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 16.3
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 30.0,
+      "allele2" : 17.0
+    }
+  }
+}, {
+  "id" : "FP-0017",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 49,
+  "location" : {
+    "latitude" : 41.0124,
+    "longitude" : 28.9636
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : null,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : null,
+      "allele2" : 27.0
+    },
+    "D18S51" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : null,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : null,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 20.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : null
+    },
+    "D12S391" : {
+      "allele1" : 17.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 28.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "FP-0018",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 58,
+  "location" : {
+    "latitude" : 41.1621,
+    "longitude" : 28.881
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : null,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : null,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : null
+    },
+    "FGA" : {
+      "allele1" : 26.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 15.0,
+      "allele2" : 18.3
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0019",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 75,
+  "location" : {
+    "latitude" : 41.0056,
+    "longitude" : 28.9966
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 31.2,
+      "allele2" : 30.2
+    },
+    "D18S51" : {
+      "allele1" : 22.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : null
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : null
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.3,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 16.0,
+      "allele2" : 25.0
+    }
+  }
+}, {
+  "id" : "FP-0020",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 36,
+  "location" : {
+    "latitude" : 41.0127,
+    "longitude" : 28.9459
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 30.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : null
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : null
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 28.0
+    }
+  }
+}, {
+  "id" : "FP-0021",
+  "species" : "dog",
+  "status" : "alive",
+  "age" : 1,
+  "location" : {
+    "latitude" : 40.9809,
+    "longitude" : 29.0843
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 164.0,
+      "allele2" : 160.0
+    },
+    "FH2010" : {
+      "allele1" : 233.0,
+      "allele2" : 233.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 276.0
+    },
+    "PEZ01" : {
+      "allele1" : 120.0,
+      "allele2" : 116.0
+    },
+    "PEZ03" : {
+      "allele1" : 150.0,
+      "allele2" : 130.0
+    },
+    "PEZ05" : {
+      "allele1" : 102.0,
+      "allele2" : 110.0
+    },
+    "PEZ06" : {
+      "allele1" : 186.0,
+      "allele2" : 174.0
+    },
+    "PEZ08" : {
+      "allele1" : 220.0,
+      "allele2" : 228.0
+    },
+    "PEZ12" : {
+      "allele1" : 262.0,
+      "allele2" : 266.0
+    },
+    "PEZ20" : {
+      "allele1" : 188.0,
+      "allele2" : 180.0
+    },
+    "FH2328" : {
+      "allele1" : 170.0,
+      "allele2" : 162.0
+    },
+    "FH2001" : {
+      "allele1" : 144.0,
+      "allele2" : 132.0
+    },
+    "AHT121" : {
+      "allele1" : 84.0,
+      "allele2" : 80.0
+    },
+    "AHT137" : {
+      "allele1" : 134.0,
+      "allele2" : 142.0
+    },
+    "AHTk211" : {
+      "allele1" : 91.0,
+      "allele2" : 95.0
+    }
+  }
+}, {
+  "id" : "FP-0022",
+  "species" : "dog",
+  "status" : "alive",
+  "age" : 4,
+  "location" : {
+    "latitude" : 41.1429,
+    "longitude" : 29.1346
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 164.0,
+      "allele2" : 140.0
+    },
+    "FH2010" : {
+      "allele1" : 245.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 276.0,
+      "allele2" : null
+    },
+    "PEZ01" : {
+      "allele1" : 116.0,
+      "allele2" : 116.0
+    },
+    "PEZ03" : {
+      "allele1" : 130.0,
+      "allele2" : 146.0
+    },
+    "PEZ05" : {
+      "allele1" : 102.0,
+      "allele2" : 98.0
+    },
+    "PEZ06" : {
+      "allele1" : 170.0,
+      "allele2" : 182.0
+    },
+    "PEZ08" : {
+      "allele1" : 220.0,
+      "allele2" : 236.0
+    },
+    "PEZ12" : {
+      "allele1" : 278.0,
+      "allele2" : 270.0
+    },
+    "PEZ20" : {
+      "allele1" : 184.0,
+      "allele2" : 172.0
+    },
+    "FH2328" : {
+      "allele1" : 166.0,
+      "allele2" : 170.0
+    },
+    "FH2001" : {
+      "allele1" : 136.0,
+      "allele2" : 132.0
+    },
+    "AHT121" : {
+      "allele1" : 84.0,
+      "allele2" : 88.0
+    },
+    "AHT137" : {
+      "allele1" : 146.0,
+      "allele2" : 142.0
+    },
+    "AHTk211" : {
+      "allele1" : 99.0,
+      "allele2" : 91.0
+    }
+  }
+}, {
+  "id" : "FP-0023",
+  "species" : "cat",
+  "status" : "alive",
+  "age" : 8,
+  "location" : {
+    "latitude" : 41.0777,
+    "longitude" : 28.9359
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 149.0,
+      "allele2" : 137.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 214.0
+    },
+    "FCA740" : {
+      "allele1" : 176.0,
+      "allele2" : 184.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 110.0
+    },
+    "FCA749" : {
+      "allele1" : 138.0,
+      "allele2" : 138.0
+    },
+    "FCA026" : {
+      "allele1" : 146.0,
+      "allele2" : 158.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 94.0
+    },
+    "FCA075" : {
+      "allele1" : 126.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : 206.0,
+      "allele2" : null
+    },
+    "FCA149" : {
+      "allele1" : 136.0,
+      "allele2" : 120.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 220.0
+    },
+    "FCA229" : {
+      "allele1" : null,
+      "allele2" : 158.0
+    },
+    "FCA310" : {
+      "allele1" : 100.0,
+      "allele2" : 104.0
+    },
+    "FCA391" : {
+      "allele1" : 210.0,
+      "allele2" : 202.0
+    },
+    "FCA453" : {
+      "allele1" : 156.0,
+      "allele2" : 164.0
+    }
+  }
+}, {
+  "id" : "FP-0024",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 12,
+  "location" : {
+    "latitude" : 41.0685,
+    "longitude" : 28.8833
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : null,
+      "allele2" : 141.0
+    },
+    "FCA723" : {
+      "allele1" : 230.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 188.0,
+      "allele2" : 180.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 126.0
+    },
+    "FCA749" : {
+      "allele1" : 122.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 150.0,
+      "allele2" : 146.0
+    },
+    "FCA069" : {
+      "allele1" : 86.0,
+      "allele2" : 102.0
+    },
+    "FCA075" : {
+      "allele1" : 130.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : 190.0,
+      "allele2" : null
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 124.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 208.0
+    },
+    "FCA229" : {
+      "allele1" : 166.0,
+      "allele2" : 162.0
+    },
+    "FCA310" : {
+      "allele1" : 116.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 206.0,
+      "allele2" : 202.0
+    },
+    "FCA453" : {
+      "allele1" : 152.0,
+      "allele2" : null
+    }
+  }
+}, {
+  "id" : "FP-0025",
+  "species" : "dog",
+  "status" : "alive",
+  "age" : 14,
+  "location" : {
+    "latitude" : 40.995,
+    "longitude" : 28.939
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 160.0,
+      "allele2" : 156.0
+    },
+    "FH2010" : {
+      "allele1" : 233.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 272.0
+    },
+    "PEZ01" : {
+      "allele1" : 128.0,
+      "allele2" : null
+    },
+    "PEZ03" : {
+      "allele1" : null,
+      "allele2" : 142.0
+    },
+    "PEZ05" : {
+      "allele1" : 110.0,
+      "allele2" : 102.0
+    },
+    "PEZ06" : {
+      "allele1" : 170.0,
+      "allele2" : 174.0
+    },
+    "PEZ08" : {
+      "allele1" : null,
+      "allele2" : 232.0
+    },
+    "PEZ12" : {
+      "allele1" : 270.0,
+      "allele2" : 262.0
+    },
+    "PEZ20" : {
+      "allele1" : 172.0,
+      "allele2" : 180.0
+    },
+    "FH2328" : {
+      "allele1" : 170.0,
+      "allele2" : null
+    },
+    "FH2001" : {
+      "allele1" : 148.0,
+      "allele2" : 132.0
+    },
+    "AHT121" : {
+      "allele1" : null,
+      "allele2" : 80.0
+    },
+    "AHT137" : {
+      "allele1" : 146.0,
+      "allele2" : 138.0
+    },
+    "AHTk211" : {
+      "allele1" : 99.0,
+      "allele2" : 103.0
+    }
+  }
+}, {
+  "id" : "FP-0026",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 36,
+  "location" : {
+    "latitude" : 41.0068,
+    "longitude" : 28.9437
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 22.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 15.3
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 24.0,
+      "allele2" : 14.0
+    }
+  }
+}, {
+  "id" : "FP-0027",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 64,
+  "location" : {
+    "latitude" : 41.0416,
+    "longitude" : 28.9894
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 15.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 10.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 21.0
+    },
+    "D2S1338" : {
+      "allele1" : 24.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "FP-0028",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 5,
+  "location" : {
+    "latitude" : 41.0988,
+    "longitude" : 29.1251
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 32.0
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 21.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "FP-0029",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 12,
+  "location" : {
+    "latitude" : 41.0913,
+    "longitude" : 29.0553
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 20.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 30.0,
+      "allele2" : 25.0
+    }
+  }
+}, {
+  "id" : "FP-0030",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 59,
+  "location" : {
+    "latitude" : 41.0512,
+    "longitude" : 28.9736
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 31.2,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 14.0,
+      "allele2" : 25.0
+    }
+  }
+}, {
+  "id" : "FP-0031",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 9,
+  "location" : {
+    "latitude" : 40.9794,
+    "longitude" : 28.9871
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 28.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 27.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0032",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 19,
+  "location" : {
+    "latitude" : 41.0565,
+    "longitude" : 28.9458
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 11.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "FP-0033",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 43,
+  "location" : {
+    "latitude" : 40.9845,
+    "longitude" : 28.8658
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 18.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 13.2
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 27.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "FP-0034",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 55,
+  "location" : {
+    "latitude" : 41.0692,
+    "longitude" : 28.859
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 9.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 22.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0035",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 36,
+  "location" : {
+    "latitude" : 41.0919,
+    "longitude" : 29.0217
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 13.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 23.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 17.0,
+      "allele2" : 19.0
+    }
+  }
+}, {
+  "id" : "FP-0036",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 53,
+  "location" : {
+    "latitude" : 41.0173,
+    "longitude" : 29.0486
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 33.2,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 16.0,
+      "allele2" : 11.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 28.0
+    },
+    "D2S1338" : {
+      "allele1" : 22.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 18.3
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0037",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 83,
+  "location" : {
+    "latitude" : 40.9884,
+    "longitude" : 28.9052
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 10.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 17.0
+    }
+  }
+}, {
+  "id" : "FP-0038",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 81,
+  "location" : {
+    "latitude" : 41.0832,
+    "longitude" : 29.0094
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 28.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 23.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 15.0,
+      "allele2" : 19.0
+    }
+  }
+}, {
+  "id" : "FP-0039",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 79,
+  "location" : {
+    "latitude" : 40.9776,
+    "longitude" : 29.0135
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 16.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 27.0
+    },
+    "D2S1338" : {
+      "allele1" : 22.0,
+      "allele2" : 17.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 14.2
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "FP-0040",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 36,
+  "location" : {
+    "latitude" : 40.9779,
+    "longitude" : 29.0518
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 22.0,
+      "allele2" : 20.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 23.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 14.2
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 17.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 23.0
+    }
+  }
+}, {
+  "id" : "FP-0041",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 63,
+  "location" : {
+    "latitude" : 41.0379,
+    "longitude" : 28.9097
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 15.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 22.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 28.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0042",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 28,
+  "location" : {
+    "latitude" : 41.0294,
+    "longitude" : 28.9041
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 22.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 30.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 16.3
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0043",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 7,
+  "location" : {
+    "latitude" : 41.0368,
+    "longitude" : 29.0273
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 28.0,
+      "allele2" : 32.0
+    },
+    "D18S51" : {
+      "allele1" : 20.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 10.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 19.0,
+      "allele2" : 14.0
+    }
+  }
+}, {
+  "id" : "FP-0044",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 61,
+  "location" : {
+    "latitude" : 41.0725,
+    "longitude" : 28.9499
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 14.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 21.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "FP-0045",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 21,
+  "location" : {
+    "latitude" : 41.0378,
+    "longitude" : 28.9559
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 24.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 14.0,
+      "allele2" : 26.0
+    }
+  }
+}, {
+  "id" : "FP-0046",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 71,
+  "location" : {
+    "latitude" : 41.045,
+    "longitude" : 28.907
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 24.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "FP-0047",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 29,
+  "location" : {
+    "latitude" : 41.1472,
+    "longitude" : 29.0191
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 11.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 27.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.0,
+      "allele2" : 15.3
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 29.0
+    }
+  }
+}, {
+  "id" : "FP-0048",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 63,
+  "location" : {
+    "latitude" : 41.1383,
+    "longitude" : 29.0923
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 28.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "FP-0049",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 82,
+  "location" : {
+    "latitude" : 41.0705,
+    "longitude" : 28.9933
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 30.2
+    },
+    "D18S51" : {
+      "allele1" : 10.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 20.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 29.0
+    }
+  }
+}, {
+  "id" : "FP-0050",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 41,
+  "location" : {
+    "latitude" : 41.1586,
+    "longitude" : 28.9496
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 30.2
+    },
+    "D18S51" : {
+      "allele1" : 19.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 15.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 20.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 16.3,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "FP-0051",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 80,
+  "location" : {
+    "latitude" : 41.0934,
+    "longitude" : 28.8302
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D13S317" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 15.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 18.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 24.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    }
+  }
+}, {
+  "id" : "FP-0052",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 76,
+  "location" : {
+    "latitude" : 41.0192,
+    "longitude" : 29.0076
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 31.2,
+      "allele2" : 32.0
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 26.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    }
+  }
+}, {
+  "id" : "FP-0053",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 51,
+  "location" : {
+    "latitude" : 41.0481,
+    "longitude" : 29.0259
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 20.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 24.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "FP-0054",
+  "species" : "human",
+  "status" : "deceased",
+  "age" : 67,
+  "location" : {
+    "latitude" : 41.0149,
+    "longitude" : 28.8785
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 22.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 16.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 16.3
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 17.0
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 26.0
+    }
+  }
+}, {
+  "id" : "FP-0055",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 30,
+  "location" : {
+    "latitude" : 41.0008,
+    "longitude" : 28.9662
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 32.0
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 28.0
+    },
+    "D2S1338" : {
+      "allele1" : 25.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 16.3
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 30.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "FP-0056",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 38,
+  "location" : {
+    "latitude" : 41.0578,
+    "longitude" : 29.091
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "FP-0057",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 65,
+  "location" : {
+    "latitude" : 41.0745,
+    "longitude" : 28.9467
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 10.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 30.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 17.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 27.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "FP-0058",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 35,
+  "location" : {
+    "latitude" : 41.0463,
+    "longitude" : 28.9524
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 19.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 22.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 24.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 19.0
+    }
+  }
+}, {
+  "id" : "FP-0059",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 10,
+  "location" : {
+    "latitude" : 41.1135,
+    "longitude" : 29.0444
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 20.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 18.0,
+      "allele2" : 22.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 18.3
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 24.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "FP-0060",
+  "species" : "human",
+  "status" : "alive",
+  "age" : 40,
+  "location" : {
+    "latitude" : 41.154,
+    "longitude" : 28.9501
+  },
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 13.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 21.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "FP-0061",
+  "species" : "dog",
+  "status" : "deceased",
+  "age" : 9,
+  "location" : {
+    "latitude" : 41.0814,
+    "longitude" : 29.0185
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 144.0,
+      "allele2" : 148.0
+    },
+    "FH2010" : {
+      "allele1" : 245.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 272.0
+    },
+    "PEZ01" : {
+      "allele1" : 120.0,
+      "allele2" : 120.0
+    },
+    "PEZ03" : {
+      "allele1" : 150.0,
+      "allele2" : 142.0
+    },
+    "PEZ05" : {
+      "allele1" : 102.0,
+      "allele2" : 98.0
+    },
+    "PEZ06" : {
+      "allele1" : 182.0,
+      "allele2" : 182.0
+    },
+    "PEZ08" : {
+      "allele1" : 232.0,
+      "allele2" : 228.0
+    },
+    "PEZ12" : {
+      "allele1" : 274.0,
+      "allele2" : 262.0
+    },
+    "PEZ20" : {
+      "allele1" : 184.0,
+      "allele2" : 188.0
+    },
+    "FH2328" : {
+      "allele1" : 166.0,
+      "allele2" : 162.0
+    },
+    "FH2001" : {
+      "allele1" : 144.0,
+      "allele2" : 140.0
+    },
+    "AHT121" : {
+      "allele1" : 88.0,
+      "allele2" : 96.0
+    },
+    "AHT137" : {
+      "allele1" : 146.0,
+      "allele2" : 134.0
+    },
+    "AHTk211" : {
+      "allele1" : 99.0,
+      "allele2" : 103.0
+    }
+  }
+}, {
+  "id" : "FP-0062",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 5,
+  "location" : {
+    "latitude" : 41.0584,
+    "longitude" : 29.0273
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 149.0,
+      "allele2" : 133.0
+    },
+    "FCA723" : {
+      "allele1" : 230.0,
+      "allele2" : 218.0
+    },
+    "FCA740" : {
+      "allele1" : 180.0,
+      "allele2" : 188.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 118.0
+    },
+    "FCA749" : {
+      "allele1" : 126.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 142.0,
+      "allele2" : 150.0
+    },
+    "FCA069" : {
+      "allele1" : 102.0,
+      "allele2" : 90.0
+    },
+    "FCA075" : {
+      "allele1" : 118.0,
+      "allele2" : 130.0
+    },
+    "FCA105" : {
+      "allele1" : 202.0,
+      "allele2" : 194.0
+    },
+    "FCA149" : {
+      "allele1" : 124.0,
+      "allele2" : 132.0
+    },
+    "FCA220" : {
+      "allele1" : 212.0,
+      "allele2" : 220.0
+    },
+    "FCA229" : {
+      "allele1" : 170.0,
+      "allele2" : 158.0
+    },
+    "FCA310" : {
+      "allele1" : 104.0,
+      "allele2" : 104.0
+    },
+    "FCA391" : {
+      "allele1" : 198.0,
+      "allele2" : 202.0
+    },
+    "FCA453" : {
+      "allele1" : 152.0,
+      "allele2" : 152.0
+    }
+  }
+}, {
+  "id" : "FP-0063",
+  "species" : "cat",
+  "status" : "alive",
+  "age" : 4,
+  "location" : {
+    "latitude" : 41.0831,
+    "longitude" : 28.9128
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 141.0,
+      "allele2" : 141.0
+    },
+    "FCA723" : {
+      "allele1" : 226.0,
+      "allele2" : 230.0
+    },
+    "FCA740" : {
+      "allele1" : 188.0,
+      "allele2" : 192.0
+    },
+    "FCA742" : {
+      "allele1" : 126.0,
+      "allele2" : 118.0
+    },
+    "FCA749" : {
+      "allele1" : 138.0,
+      "allele2" : 122.0
+    },
+    "FCA026" : {
+      "allele1" : 150.0,
+      "allele2" : 154.0
+    },
+    "FCA069" : {
+      "allele1" : 94.0,
+      "allele2" : 98.0
+    },
+    "FCA075" : {
+      "allele1" : 126.0,
+      "allele2" : 134.0
+    },
+    "FCA105" : {
+      "allele1" : 190.0,
+      "allele2" : 190.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 132.0
+    },
+    "FCA220" : {
+      "allele1" : 212.0,
+      "allele2" : 216.0
+    },
+    "FCA229" : {
+      "allele1" : 158.0,
+      "allele2" : 170.0
+    },
+    "FCA310" : {
+      "allele1" : 108.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 206.0,
+      "allele2" : 210.0
+    },
+    "FCA453" : {
+      "allele1" : 148.0,
+      "allele2" : 160.0
+    }
+  }
+}, {
+  "id" : "FP-0064",
+  "species" : "dog",
+  "status" : "deceased",
+  "age" : 4,
+  "location" : {
+    "latitude" : 41.0455,
+    "longitude" : 28.9596
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 156.0,
+      "allele2" : 152.0
+    },
+    "FH2010" : {
+      "allele1" : 241.0,
+      "allele2" : 233.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 280.0
+    },
+    "PEZ01" : {
+      "allele1" : 120.0,
+      "allele2" : 112.0
+    },
+    "PEZ03" : {
+      "allele1" : 130.0,
+      "allele2" : 150.0
+    },
+    "PEZ05" : {
+      "allele1" : 106.0,
+      "allele2" : 102.0
+    },
+    "PEZ06" : {
+      "allele1" : 174.0,
+      "allele2" : 174.0
+    },
+    "PEZ08" : {
+      "allele1" : 232.0,
+      "allele2" : 232.0
+    },
+    "PEZ12" : {
+      "allele1" : 274.0,
+      "allele2" : 278.0
+    },
+    "PEZ20" : {
+      "allele1" : 176.0,
+      "allele2" : 176.0
+    },
+    "FH2328" : {
+      "allele1" : 170.0,
+      "allele2" : 166.0
+    },
+    "FH2001" : {
+      "allele1" : 144.0,
+      "allele2" : 140.0
+    },
+    "AHT121" : {
+      "allele1" : 92.0,
+      "allele2" : 88.0
+    },
+    "AHT137" : {
+      "allele1" : 142.0,
+      "allele2" : 138.0
+    },
+    "AHTk211" : {
+      "allele1" : 91.0,
+      "allele2" : 91.0
+    }
+  }
+}, {
+  "id" : "FP-0065",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 8,
+  "location" : {
+    "latitude" : 40.9771,
+    "longitude" : 29.0215
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 145.0,
+      "allele2" : 145.0
+    },
+    "FCA723" : {
+      "allele1" : 226.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 180.0,
+      "allele2" : 188.0
+    },
+    "FCA742" : {
+      "allele1" : 114.0,
+      "allele2" : 114.0
+    },
+    "FCA749" : {
+      "allele1" : 126.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 146.0,
+      "allele2" : 150.0
+    },
+    "FCA069" : {
+      "allele1" : 102.0,
+      "allele2" : 86.0
+    },
+    "FCA075" : {
+      "allele1" : 130.0,
+      "allele2" : 130.0
+    },
+    "FCA105" : {
+      "allele1" : 202.0,
+      "allele2" : 202.0
+    },
+    "FCA149" : {
+      "allele1" : 124.0,
+      "allele2" : 132.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 212.0
+    },
+    "FCA229" : {
+      "allele1" : 170.0,
+      "allele2" : 158.0
+    },
+    "FCA310" : {
+      "allele1" : 112.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 202.0,
+      "allele2" : 198.0
+    },
+    "FCA453" : {
+      "allele1" : 156.0,
+      "allele2" : 148.0
+    }
+  }
+}, {
+  "id" : "FP-0066",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 14,
+  "location" : {
+    "latitude" : 41.1223,
+    "longitude" : 28.8841
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 149.0,
+      "allele2" : 145.0
+    },
+    "FCA723" : {
+      "allele1" : 218.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 188.0,
+      "allele2" : 184.0
+    },
+    "FCA742" : {
+      "allele1" : 126.0,
+      "allele2" : 110.0
+    },
+    "FCA749" : {
+      "allele1" : 138.0,
+      "allele2" : 126.0
+    },
+    "FCA026" : {
+      "allele1" : 142.0,
+      "allele2" : 142.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 86.0
+    },
+    "FCA075" : {
+      "allele1" : 134.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : 198.0,
+      "allele2" : 198.0
+    },
+    "FCA149" : {
+      "allele1" : 136.0,
+      "allele2" : 128.0
+    },
+    "FCA220" : {
+      "allele1" : 212.0,
+      "allele2" : 216.0
+    },
+    "FCA229" : {
+      "allele1" : 158.0,
+      "allele2" : 154.0
+    },
+    "FCA310" : {
+      "allele1" : 116.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 194.0,
+      "allele2" : 210.0
+    },
+    "FCA453" : {
+      "allele1" : 164.0,
+      "allele2" : 160.0
+    }
+  }
+}, {
+  "id" : "FP-0067",
+  "species" : "cat",
+  "status" : "alive",
+  "age" : 14,
+  "location" : {
+    "latitude" : 41.0778,
+    "longitude" : 28.924
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 133.0,
+      "allele2" : 149.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 218.0
+    },
+    "FCA740" : {
+      "allele1" : 180.0,
+      "allele2" : 192.0
+    },
+    "FCA742" : {
+      "allele1" : 122.0,
+      "allele2" : 122.0
+    },
+    "FCA749" : {
+      "allele1" : 126.0,
+      "allele2" : 134.0
+    },
+    "FCA026" : {
+      "allele1" : 154.0,
+      "allele2" : 154.0
+    },
+    "FCA069" : {
+      "allele1" : 98.0,
+      "allele2" : 98.0
+    },
+    "FCA075" : {
+      "allele1" : 126.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : 202.0,
+      "allele2" : 202.0
+    },
+    "FCA149" : {
+      "allele1" : 120.0,
+      "allele2" : 128.0
+    },
+    "FCA220" : {
+      "allele1" : 224.0,
+      "allele2" : 216.0
+    },
+    "FCA229" : {
+      "allele1" : 154.0,
+      "allele2" : 166.0
+    },
+    "FCA310" : {
+      "allele1" : 116.0,
+      "allele2" : 116.0
+    },
+    "FCA391" : {
+      "allele1" : 202.0,
+      "allele2" : 198.0
+    },
+    "FCA453" : {
+      "allele1" : 152.0,
+      "allele2" : 148.0
+    }
+  }
+}, {
+  "id" : "FP-0068",
+  "species" : "dog",
+  "status" : "alive",
+  "age" : 6,
+  "location" : {
+    "latitude" : 41.0324,
+    "longitude" : 28.9568
+  },
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 148.0,
+      "allele2" : 152.0
+    },
+    "FH2010" : {
+      "allele1" : 245.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 276.0
+    },
+    "PEZ01" : {
+      "allele1" : 116.0,
+      "allele2" : 112.0
+    },
+    "PEZ03" : {
+      "allele1" : 130.0,
+      "allele2" : 150.0
+    },
+    "PEZ05" : {
+      "allele1" : 114.0,
+      "allele2" : 106.0
+    },
+    "PEZ06" : {
+      "allele1" : 186.0,
+      "allele2" : 182.0
+    },
+    "PEZ08" : {
+      "allele1" : 228.0,
+      "allele2" : 236.0
+    },
+    "PEZ12" : {
+      "allele1" : 278.0,
+      "allele2" : 270.0
+    },
+    "PEZ20" : {
+      "allele1" : 172.0,
+      "allele2" : 172.0
+    },
+    "FH2328" : {
+      "allele1" : 166.0,
+      "allele2" : 162.0
+    },
+    "FH2001" : {
+      "allele1" : 140.0,
+      "allele2" : 140.0
+    },
+    "AHT121" : {
+      "allele1" : 84.0,
+      "allele2" : 92.0
+    },
+    "AHT137" : {
+      "allele1" : 142.0,
+      "allele2" : 142.0
+    },
+    "AHTk211" : {
+      "allele1" : 91.0,
+      "allele2" : 95.0
+    }
+  }
+}, {
+  "id" : "FP-0069",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 11,
+  "location" : {
+    "latitude" : 41.0109,
+    "longitude" : 29.0137
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 133.0,
+      "allele2" : 137.0
+    },
+    "FCA723" : {
+      "allele1" : 222.0,
+      "allele2" : 222.0
+    },
+    "FCA740" : {
+      "allele1" : 192.0,
+      "allele2" : 188.0
+    },
+    "FCA742" : {
+      "allele1" : 114.0,
+      "allele2" : 110.0
+    },
+    "FCA749" : {
+      "allele1" : 134.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 146.0,
+      "allele2" : 150.0
+    },
+    "FCA069" : {
+      "allele1" : 102.0,
+      "allele2" : 102.0
+    },
+    "FCA075" : {
+      "allele1" : 130.0,
+      "allele2" : 134.0
+    },
+    "FCA105" : {
+      "allele1" : 206.0,
+      "allele2" : 206.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 120.0
+    },
+    "FCA220" : {
+      "allele1" : 212.0,
+      "allele2" : 216.0
+    },
+    "FCA229" : {
+      "allele1" : 170.0,
+      "allele2" : 166.0
+    },
+    "FCA310" : {
+      "allele1" : 100.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 198.0,
+      "allele2" : 194.0
+    },
+    "FCA453" : {
+      "allele1" : 148.0,
+      "allele2" : 148.0
+    }
+  }
+}, {
+  "id" : "FP-0070",
+  "species" : "cat",
+  "status" : "deceased",
+  "age" : 5,
+  "location" : {
+    "latitude" : 41.0219,
+    "longitude" : 28.8587
+  },
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 141.0,
+      "allele2" : 137.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 180.0,
+      "allele2" : 188.0
+    },
+    "FCA742" : {
+      "allele1" : 126.0,
+      "allele2" : 114.0
+    },
+    "FCA749" : {
+      "allele1" : 122.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 146.0,
+      "allele2" : 154.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 90.0
+    },
+    "FCA075" : {
+      "allele1" : 134.0,
+      "allele2" : 118.0
+    },
+    "FCA105" : {
+      "allele1" : 202.0,
+      "allele2" : 206.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 120.0
+    },
+    "FCA220" : {
+      "allele1" : 208.0,
+      "allele2" : 212.0
+    },
+    "FCA229" : {
+      "allele1" : 162.0,
+      "allele2" : 170.0
+    },
+    "FCA310" : {
+      "allele1" : 104.0,
+      "allele2" : 104.0
+    },
+    "FCA391" : {
+      "allele1" : 194.0,
+      "allele2" : 206.0
+    },
+    "FCA453" : {
+      "allele1" : 164.0,
+      "allele2" : 148.0
+    }
+  }
+}, {
+  "id" : "FP-0071",
+  "species" : "mushroom",
+  "status" : "deceased",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0653,
+    "longitude" : 29.0283
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 22.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 6.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 25.0,
+      "allele2" : 9.0
+    },
+    "AB_STR01" : {
+      "allele1" : 27.0,
+      "allele2" : 19.0
+    },
+    "AB_STR02" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "AB_STR03" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "AB_STR04" : {
+      "allele1" : 5.0,
+      "allele2" : 17.0
+    },
+    "AB_STR05" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "FP-0072",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0848,
+    "longitude" : 28.9211
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 26.0,
+      "allele2" : 22.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 8.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 28.0,
+      "allele2" : 28.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 17.0,
+      "allele2" : 9.0
+    },
+    "AB_STR01" : {
+      "allele1" : 15.0,
+      "allele2" : 11.0
+    },
+    "AB_STR02" : {
+      "allele1" : 19.0,
+      "allele2" : 23.0
+    },
+    "AB_STR03" : {
+      "allele1" : 13.0,
+      "allele2" : 21.0
+    },
+    "AB_STR04" : {
+      "allele1" : 5.0,
+      "allele2" : 9.0
+    },
+    "AB_STR05" : {
+      "allele1" : 20.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "FP-0073",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0993,
+    "longitude" : 29.16
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 14.0,
+      "allele2" : 18.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 22.0,
+      "allele2" : 18.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 20.0,
+      "allele2" : 12.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "AB_STR01" : {
+      "allele1" : 27.0,
+      "allele2" : 19.0
+    },
+    "AB_STR02" : {
+      "allele1" : 11.0,
+      "allele2" : 23.0
+    },
+    "AB_STR03" : {
+      "allele1" : 13.0,
+      "allele2" : 25.0
+    },
+    "AB_STR04" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "AB_STR05" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    }
+  }
+}, {
+  "id" : "FP-0074",
+  "species" : "yeast",
+  "status" : "deceased",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0987,
+    "longitude" : 28.9417
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 5.0,
+      "allele2" : 11.0
+    },
+    "YDR210W" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "YGL115W" : {
+      "allele1" : 4.0,
+      "allele2" : 4.0
+    },
+    "YMR197C" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "YNL209W" : {
+      "allele1" : 12.0,
+      "allele2" : 3.0
+    },
+    "YPL061W" : {
+      "allele1" : 16.0,
+      "allele2" : 8.0
+    },
+    "YBR085W" : {
+      "allele1" : 2.0,
+      "allele2" : 5.0
+    },
+    "YER103W" : {
+      "allele1" : 15.0,
+      "allele2" : 3.0
+    },
+    "YGR192C" : {
+      "allele1" : 9.0,
+      "allele2" : 6.0
+    },
+    "YLR044C" : {
+      "allele1" : 16.0,
+      "allele2" : 4.0
+    }
+  }
+}, {
+  "id" : "FP-0075",
+  "species" : "yeast",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0056,
+    "longitude" : 29.0649
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 11.0,
+      "allele2" : 3.0
+    },
+    "YDR210W" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "YGL115W" : {
+      "allele1" : 6.0,
+      "allele2" : 8.0
+    },
+    "YMR197C" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "YNL209W" : {
+      "allele1" : 9.0,
+      "allele2" : 3.0
+    },
+    "YPL061W" : {
+      "allele1" : 16.0,
+      "allele2" : 4.0
+    },
+    "YBR085W" : {
+      "allele1" : 2.0,
+      "allele2" : 11.0
+    },
+    "YER103W" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "YGR192C" : {
+      "allele1" : 6.0,
+      "allele2" : 12.0
+    },
+    "YLR044C" : {
+      "allele1" : 16.0,
+      "allele2" : 4.0
+    }
+  }
+}, {
+  "id" : "FP-0076",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.098,
+    "longitude" : 29.0142
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 14.0,
+      "allele2" : 18.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 12.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 13.0,
+      "allele2" : 25.0
+    },
+    "AB_STR01" : {
+      "allele1" : 27.0,
+      "allele2" : 11.0
+    },
+    "AB_STR02" : {
+      "allele1" : 11.0,
+      "allele2" : 23.0
+    },
+    "AB_STR03" : {
+      "allele1" : 29.0,
+      "allele2" : 13.0
+    },
+    "AB_STR04" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "AB_STR05" : {
+      "allele1" : 12.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "FP-0077",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.145,
+    "longitude" : 28.9084
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 12.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 18.0,
+      "allele2" : 22.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 20.0,
+      "allele2" : 28.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 21.0,
+      "allele2" : 13.0
+    },
+    "AB_STR01" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "AB_STR02" : {
+      "allele1" : 15.0,
+      "allele2" : 19.0
+    },
+    "AB_STR03" : {
+      "allele1" : 17.0,
+      "allele2" : 29.0
+    },
+    "AB_STR04" : {
+      "allele1" : 5.0,
+      "allele2" : 9.0
+    },
+    "AB_STR05" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    }
+  }
+}, {
+  "id" : "FP-0078",
+  "species" : "yeast",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0317,
+    "longitude" : 28.9545
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 7.0,
+      "allele2" : 3.0
+    },
+    "YDR210W" : {
+      "allele1" : 12.0,
+      "allele2" : 4.0
+    },
+    "YGL115W" : {
+      "allele1" : 8.0,
+      "allele2" : 4.0
+    },
+    "YMR197C" : {
+      "allele1" : 5.0,
+      "allele2" : 11.0
+    },
+    "YNL209W" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "YPL061W" : {
+      "allele1" : 16.0,
+      "allele2" : 8.0
+    },
+    "YBR085W" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "YER103W" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "YGR192C" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "YLR044C" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0079",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 40.9809,
+    "longitude" : 28.9838
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 14.0,
+      "allele2" : 22.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 12.0,
+      "allele2" : 24.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 6.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 13.0,
+      "allele2" : 25.0
+    },
+    "AB_STR01" : {
+      "allele1" : 23.0,
+      "allele2" : 15.0
+    },
+    "AB_STR02" : {
+      "allele1" : 7.0,
+      "allele2" : 23.0
+    },
+    "AB_STR03" : {
+      "allele1" : 21.0,
+      "allele2" : 29.0
+    },
+    "AB_STR04" : {
+      "allele1" : 9.0,
+      "allele2" : 17.0
+    },
+    "AB_STR05" : {
+      "allele1" : 16.0,
+      "allele2" : 8.0
+    }
+  }
+}, {
+  "id" : "FP-0080",
+  "species" : "mushroom",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 40.9928,
+    "longitude" : 28.9627
+  },
+  "dnaProfile" : {
+    "AG_SSR01" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR02" : {
+      "allele1" : 24.0,
+      "allele2" : 20.0
+    },
+    "AG_SSR03" : {
+      "allele1" : 22.0,
+      "allele2" : 10.0
+    },
+    "AG_SSR04" : {
+      "allele1" : 28.0,
+      "allele2" : 28.0
+    },
+    "AG_SSR05" : {
+      "allele1" : 17.0,
+      "allele2" : 21.0
+    },
+    "AB_STR01" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "AB_STR02" : {
+      "allele1" : 15.0,
+      "allele2" : 23.0
+    },
+    "AB_STR03" : {
+      "allele1" : 21.0,
+      "allele2" : 29.0
+    },
+    "AB_STR04" : {
+      "allele1" : 5.0,
+      "allele2" : 5.0
+    },
+    "AB_STR05" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0081",
+  "species" : "yeast",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.1059,
+    "longitude" : 28.8928
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "YDR210W" : {
+      "allele1" : 4.0,
+      "allele2" : 10.0
+    },
+    "YGL115W" : {
+      "allele1" : 6.0,
+      "allele2" : 4.0
+    },
+    "YMR197C" : {
+      "allele1" : 9.0,
+      "allele2" : 5.0
+    },
+    "YNL209W" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "YPL061W" : {
+      "allele1" : 4.0,
+      "allele2" : 12.0
+    },
+    "YBR085W" : {
+      "allele1" : 11.0,
+      "allele2" : 2.0
+    },
+    "YER103W" : {
+      "allele1" : 3.0,
+      "allele2" : 3.0
+    },
+    "YGR192C" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "YLR044C" : {
+      "allele1" : 16.0,
+      "allele2" : 4.0
+    }
+  }
+}, {
+  "id" : "FP-0082",
+  "species" : "yeast",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0732,
+    "longitude" : 28.963
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 3.0,
+      "allele2" : 5.0
+    },
+    "YDR210W" : {
+      "allele1" : 12.0,
+      "allele2" : 6.0
+    },
+    "YGL115W" : {
+      "allele1" : 4.0,
+      "allele2" : 4.0
+    },
+    "YMR197C" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "YNL209W" : {
+      "allele1" : 12.0,
+      "allele2" : 6.0
+    },
+    "YPL061W" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "YBR085W" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "YER103W" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "YGR192C" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "YLR044C" : {
+      "allele1" : 8.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0083",
+  "species" : "yeast",
+  "status" : "deceased",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0194,
+    "longitude" : 28.9419
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "YDR210W" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "YGL115W" : {
+      "allele1" : 4.0,
+      "allele2" : 2.0
+    },
+    "YMR197C" : {
+      "allele1" : 7.0,
+      "allele2" : 5.0
+    },
+    "YNL209W" : {
+      "allele1" : 6.0,
+      "allele2" : 3.0
+    },
+    "YPL061W" : {
+      "allele1" : 16.0,
+      "allele2" : 4.0
+    },
+    "YBR085W" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "YER103W" : {
+      "allele1" : 3.0,
+      "allele2" : 7.0
+    },
+    "YGR192C" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "YLR044C" : {
+      "allele1" : 8.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "FP-0084",
+  "species" : "yeast",
+  "status" : "alive",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0944,
+    "longitude" : 29.0278
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 9.0,
+      "allele2" : 3.0
+    },
+    "YDR210W" : {
+      "allele1" : 10.0,
+      "allele2" : 6.0
+    },
+    "YGL115W" : {
+      "allele1" : 6.0,
+      "allele2" : 2.0
+    },
+    "YMR197C" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "YNL209W" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "YPL061W" : {
+      "allele1" : 8.0,
+      "allele2" : 4.0
+    },
+    "YBR085W" : {
+      "allele1" : 2.0,
+      "allele2" : 11.0
+    },
+    "YER103W" : {
+      "allele1" : 3.0,
+      "allele2" : 7.0
+    },
+    "YGR192C" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "YLR044C" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    }
+  }
+}, {
+  "id" : "FP-0085",
+  "species" : "yeast",
+  "status" : "deceased",
+  "age" : 0,
+  "location" : {
+    "latitude" : 41.0274,
+    "longitude" : 28.9392
+  },
+  "dnaProfile" : {
+    "YOR100C" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "YDR210W" : {
+      "allele1" : 12.0,
+      "allele2" : 4.0
+    },
+    "YGL115W" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "YMR197C" : {
+      "allele1" : 5.0,
+      "allele2" : 11.0
+    },
+    "YNL209W" : {
+      "allele1" : 3.0,
+      "allele2" : 3.0
+    },
+    "YPL061W" : {
+      "allele1" : 12.0,
+      "allele2" : 8.0
+    },
+    "YBR085W" : {
+      "allele1" : 2.0,
+      "allele2" : 11.0
+    },
+    "YER103W" : {
+      "allele1" : 15.0,
+      "allele2" : 7.0
+    },
+    "YGR192C" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "YLR044C" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    }
+  }
+} ]

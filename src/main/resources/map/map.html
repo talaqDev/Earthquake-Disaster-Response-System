@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earthquake Disaster Response - Map Visualization</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: #1a1a2e; color: #e0e0e0; }
+        #map { height: 65vh; width: 100%; }
+        #dashboard { padding: 12px 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+        .stat-card {
+            background: #16213e; border-radius: 8px; padding: 10px 12px;
+            border-left: 3px solid #0f3460;
+        }
+        .stat-card h3 { font-size: 0.75em; color: #8b9dc3; margin-bottom: 3px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .stat-card .value { font-size: 1.4em; font-weight: bold; }
+        .stat-card.matches { border-left-color: #4caf50; }
+        .stat-card.matches .value { color: #4caf50; }
+        .stat-card.unmatched { border-left-color: #f44336; }
+        .stat-card.unmatched .value { color: #f44336; }
+        .stat-card.zone { border-left-color: #2196f3; }
+        .stat-card.zone .value { color: #2196f3; font-size: 1.2em; }
+        .stat-card.noise { border-left-color: #9e9e9e; }
+        .stat-card.noise .value { color: #9e9e9e; }
+        .stat-card.alive { border-left-color: #ff9800; }
+        .stat-card.alive .value { color: #ff9800; }
+        #header {
+            background: #0f3460; padding: 15px 20px; display: flex;
+            justify-content: space-between; align-items: center;
+        }
+        #header h1 { font-size: 1.3em; }
+        #header .subtitle { color: #8b9dc3; font-size: 0.9em; }
+        #legend { padding: 10px 20px; display: flex; gap: 20px; flex-wrap: wrap; background: #16213e; }
+        .legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.85em; }
+        .legend-dot { width: 14px; height: 14px; border-radius: 50%; display: inline-block; }
+        #load-info { padding: 10px 20px; color: #8b9dc3; font-size: 0.85em; }
+        #error-msg { padding: 20px; color: #f44336; display: none; }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <div>
+            <h1>Earthquake Disaster Response System</h1>
+            <div class="subtitle">Istanbul, Turkey - DNA Matching Visualization</div>
+        </div>
+        <div>
+            <label for="fileInput" style="cursor:pointer; background:#2196f3; padding:8px 16px; border-radius:5px; font-size:0.9em;">
+                Load results.json
+            </label>
+            <input type="file" id="fileInput" accept=".json" style="display:none">
+        </div>
+    </div>
+
+    <div id="legend">
+        <div class="legend-item"><span class="legend-dot" style="background:#4caf50"></span> Matched (alive)</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#8bc34a"></span> Matched (deceased)</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#f44336"></span> Unmatched found</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#2196f3; border-radius:0; width:16px; height:16px; border:2px solid #2196f3; background:transparent;"></span> Disaster zone</div>
+        <div class="legend-item"><span class="legend-dot" style="background:#ff9800"></span> Centroid</div>
+    </div>
+
+    <div id="map"></div>
+    <div id="error-msg"></div>
+    <div id="load-info">Load your results.json using the button above. If map tiles show 403 errors, serve via local HTTP server: <code>cd src/main/resources/map && python3 -m http.server 8000</code> then open <code>http://localhost:8000/map.html</code></div>
+    <div id="dashboard"></div>
+
+    <script>
+        const map = L.map('map', { preferCanvas: true }).setView([41.0082, 28.9784], 11);
+        const canvasRenderer = L.canvas({ padding: 0.5 });
+
+        // Try multiple tile providers in case one blocks file:// access
+        const tileLayers = [
+            { url: 'https://tile.openstreetmap.de/{z}/{x}/{y}.png', attr: '&copy; OpenStreetMap contributors' },
+            { url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', attr: '&copy; OpenStreetMap &copy; CARTO', opts: { subdomains: 'abcd' } },
+            { url: 'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', attr: '&copy; OpenStreetMap &copy; Stadia Maps' },
+        ];
+
+        let tileLoaded = false;
+        function tryTileLayer(index) {
+            if (index >= tileLayers.length || tileLoaded) return;
+            const t = tileLayers[index];
+            const layer = L.tileLayer(t.url, { attribution: t.attr, maxZoom: 19, ...( t.opts || {}) });
+            layer.once('tileerror', function() {
+                map.removeLayer(layer);
+                tryTileLayer(index + 1);
+            });
+            layer.once('tileload', function() { tileLoaded = true; });
+            layer.addTo(map);
+        }
+        tryTileLayer(0);
+
+        const layers = {
+            matched: L.layerGroup().addTo(map),
+            unmatched: L.layerGroup().addTo(map),
+            zone: L.layerGroup().addTo(map),
+            centroid: L.layerGroup().addTo(map)
+        };
+
+        function showError(msg) {
+            const el = document.getElementById('error-msg');
+            el.textContent = msg;
+            el.style.display = 'block';
+        }
+
+        function clearMap() {
+            Object.values(layers).forEach(l => l.clearLayers());
+            document.getElementById('dashboard').innerHTML = '';
+            document.getElementById('error-msg').style.display = 'none';
+        }
+
+        function renderResults(data) {
+            clearMap();
+            const bounds = [];
+
+            // Disaster zone bounding box
+            if (data.disasterZone) {
+                const dz = data.disasterZone;
+                if (dz.boundingBoxMin && dz.boundingBoxMax) {
+                    const rect = L.rectangle(
+                        [[dz.boundingBoxMin.lat, dz.boundingBoxMin.lon],
+                         [dz.boundingBoxMax.lat, dz.boundingBoxMax.lon]],
+                        { color: '#2196f3', weight: 2, fillOpacity: 0.08, dashArray: '8 4' }
+                    ).addTo(layers.zone);
+                    rect.bindPopup(`<b>Disaster Zone</b><br>Area: ${dz.areaKmSquared} km²`);
+                }
+
+                // Centroid marker
+                if (dz.centroid) {
+                    const centroidIcon = L.divIcon({
+                        html: '<div style="background:#ff9800;width:20px;height:20px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 10px rgba(255,152,0,0.8);"></div>',
+                        iconSize: [20, 20], iconAnchor: [10, 10], className: ''
+                    });
+                    L.marker([dz.centroid.lat, dz.centroid.lon], { icon: centroidIcon })
+                        .addTo(layers.centroid)
+                        .bindPopup(`<b>Disaster Centroid</b><br>${dz.centroid.lat}, ${dz.centroid.lon}`);
+                    bounds.push([dz.centroid.lat, dz.centroid.lon]);
+                }
+            }
+
+            // Matched persons (green circle markers — Canvas rendered for performance)
+            if (data.matches) {
+                data.matches.forEach(m => {
+                    if (!m.location) return;
+                    const isAlive = m.status === 'alive';
+                    const color = isAlive ? '#4caf50' : '#8bc34a';
+                    L.circleMarker([m.location.lat, m.location.lon], {
+                        radius: 5, fillColor: color, color: '#fff',
+                        weight: 1.5, fillOpacity: 0.9, renderer: canvasRenderer
+                    }).addTo(layers.matched)
+                      .bindPopup(`<b>MATCH</b><br>${m.foundPersonId} ↔ ${m.missingReportId}<br>` +
+                            `Name: ${m.missingName || 'Unknown'}<br>` +
+                            `Confidence: ${(m.confidence * 100).toFixed(1)}%<br>` +
+                            `Type: ${m.matchType}<br>Status: ${m.status}`);
+                    bounds.push([m.location.lat, m.location.lon]);
+                });
+            }
+
+            // Unmatched found persons (red circle markers — Canvas rendered)
+            if (data.unmatchedFound) {
+                data.unmatchedFound.forEach(u => {
+                    if (!u.location) return;
+                    L.circleMarker([u.location.lat, u.location.lon], {
+                        radius: 4, fillColor: '#f44336', color: '#fff',
+                        weight: 1, fillOpacity: 0.7, renderer: canvasRenderer
+                    }).addTo(layers.unmatched)
+                      .bindPopup(`<b>Unmatched</b><br>${u.id}<br>Species: ${u.species}<br>Status: ${u.status}`);
+                    bounds.push([u.location.lat, u.location.lon]);
+                });
+            }
+
+            // Fit map to bounds
+            if (bounds.length > 0) {
+                map.fitBounds(bounds, { padding: [30, 30] });
+            }
+
+            // Dashboard
+            const stats = data.statistics || {};
+            const dz = data.disasterZone || {};
+            const dashboard = document.getElementById('dashboard');
+            dashboard.innerHTML = `
+                <div class="stat-card matches"><h3>Matches Found</h3><div class="value">${stats.matchesFound || 0}</div></div>
+                <div class="stat-card unmatched"><h3>Unmatched Missing</h3><div class="value">${stats.unmatchedMissing || 0}</div></div>
+                <div class="stat-card unmatched"><h3>Unmatched Found</h3><div class="value">${stats.unmatchedFound || 0}</div></div>
+                <div class="stat-card alive"><h3>Found Alive</h3><div class="value">${stats.foundAlive || 0}</div></div>
+                <div class="stat-card alive"><h3>Found Deceased</h3><div class="value">${stats.foundDeceased || 0}</div></div>
+                <div class="stat-card noise"><h3>Noise Filtered</h3><div class="value">${stats.noiseFiltered || 0}</div></div>
+                <div class="stat-card zone"><h3>Disaster Zone Area</h3><div class="value">${dz.areaKmSquared || '—'} km²</div></div>
+                <div class="stat-card zone"><h3>Centroid</h3><div class="value">${dz.centroid ? `${dz.centroid.lat}, ${dz.centroid.lon}` : '—'}</div></div>
+                <div class="stat-card noise"><h3>Processing Time</h3><div class="value">${stats.processingTimeMs ? stats.processingTimeMs + ' ms' : (stats.processingTimeNanos ? (stats.processingTimeNanos / 1000000).toFixed(3) + ' ms' : '—')}</div></div>
+            `;
+
+            document.getElementById('load-info').textContent =
+                `Loaded: ${stats.eventsProcessed || '?'} events, ${stats.matchesFound || 0} matches`;
+        }
+
+        // File input handler
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = function(evt) {
+                try {
+                    const data = JSON.parse(evt.target.result);
+                    renderResults(data);
+                } catch (err) {
+                    showError('Error parsing JSON: ' + err.message);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        // Try to auto-load results.json from same directory
+        fetch('results.json')
+            .then(r => r.ok ? r.json() : Promise.reject('No auto-load'))
+            .then(renderResults)
+            .catch(() => {});
+    </script>
+</body>
+</html>

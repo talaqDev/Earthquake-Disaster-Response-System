@@ -1,0 +1,3321 @@
+[ {
+  "id" : "MR-0001",
+  "name" : "Hatice Aktaş",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Emine Yıldız",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : null
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : null,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 17.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "MR-0002",
+  "name" : "Emine Arslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Ibrahim Aslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 33.2,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "MR-0003",
+  "name" : "Emine Aslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Ibrahim Aslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : null,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 22.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 13.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 18.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "MR-0004",
+  "name" : "Leyla Yıldız",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Nihan Yılmaz",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : null
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 24.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 24.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "MR-0005",
+  "name" : "Leyla Öztürk",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Tuğçe Arslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : null,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 24.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "MR-0006",
+  "name" : "Eren Aktaş",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Emre Koç",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.0,
+      "allele2" : null
+    },
+    "D21S11" : {
+      "allele1" : 31.2,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : null
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 24.0,
+      "allele2" : 30.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 17.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "MR-0007",
+  "name" : "Hasan Doğan",
+  "species" : "human",
+  "relationship" : "parent",
+  "submittedBy" : "Mustafa Doğan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 22.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 13.0,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 11.3
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "MR-0008",
+  "name" : "Nihan Yıldız",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Furkan Aslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 20.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 28.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 20.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 13.2
+    },
+    "D1S1656" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 29.0,
+      "allele2" : 15.0
+    }
+  }
+}, {
+  "id" : "MR-0009",
+  "name" : "Kemal Yıldırım",
+  "species" : "human",
+  "relationship" : "sibling",
+  "submittedBy" : "Hakan Özkan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 13.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 28.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 15.3
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 29.0
+    }
+  }
+}, {
+  "id" : "MR-0010",
+  "name" : "Ahmet Yıldız",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Kemal Güneş",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 22.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : null,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : null,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "MR-0011",
+  "name" : "Kemal Çetin",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Eren Demir",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 31.2
+    },
+    "D18S51" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 21.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 18.0,
+      "allele2" : 24.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 21.0,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "MR-0012",
+  "name" : "Deniz Arslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Kemal Öztürk",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 21.0
+    },
+    "D5S818" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : null
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 21.0
+    },
+    "D2S1338" : {
+      "allele1" : 23.0,
+      "allele2" : 19.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 18.0,
+      "allele2" : 30.0
+    }
+  }
+}, {
+  "id" : "MR-0013",
+  "name" : "Yusuf Kılıç",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Rana Arslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 32.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : null,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 12.0,
+      "allele2" : 10.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : null,
+      "allele2" : 12.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 14.2,
+      "allele2" : 14.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : null
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 21.0,
+      "allele2" : 22.0
+    }
+  }
+}, {
+  "id" : "MR-0014",
+  "name" : "Hasan Arslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Yusuf Yılmaz",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 9.3,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 30.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 10.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 8.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 27.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 22.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.3,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 19.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 26.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "MR-0015",
+  "name" : "Özge Şahin",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Kemal Yılmaz",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 14.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : null,
+      "allele2" : 26.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 18.3,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "MR-0016",
+  "name" : "Leyla Şimşek",
+  "species" : "human",
+  "relationship" : "parent",
+  "submittedBy" : "Pelin Özdemir",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 32.2
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 25.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 17.0,
+      "allele2" : 17.0
+    }
+  }
+}, {
+  "id" : "MR-0017",
+  "name" : "Cem Çelik",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Hatice Kurt",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 5.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 27.0
+    },
+    "D18S51" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "D5S818" : {
+      "allele1" : 7.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : null
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 20.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 12.0,
+      "allele2" : 16.0
+    },
+    "D12S391" : {
+      "allele1" : 17.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 28.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "MR-0018",
+  "name" : "Tuğçe Arslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Tuğçe Koç",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 13.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 28.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D5S818" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 8.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 15.0,
+      "allele2" : null
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 26.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 15.2,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 15.0,
+      "allele2" : 18.3
+    },
+    "D12S391" : {
+      "allele1" : 25.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 16.0
+    }
+  }
+}, {
+  "id" : "MR-0019",
+  "name" : "Burak Çelik",
+  "species" : "human",
+  "relationship" : "parent",
+  "submittedBy" : "Kemal Yılmaz",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 29.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 21.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 14.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "D8S1179" : {
+      "allele1" : 15.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 16.2,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 29.0
+    }
+  }
+}, {
+  "id" : "MR-0020",
+  "name" : "Furkan Polat",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Emre Doğan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 29.0,
+      "allele2" : 30.0
+    },
+    "D18S51" : {
+      "allele1" : 21.0,
+      "allele2" : 18.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 7.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 13.0,
+      "allele2" : 10.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 25.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 16.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 16.3
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 28.0
+    }
+  }
+}, {
+  "id" : "MR-0021",
+  "name" : "Ponçik",
+  "species" : "dog",
+  "relationship" : "parent",
+  "submittedBy" : "Hatice Özkan",
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 160.0,
+      "allele2" : 152.0
+    },
+    "FH2010" : {
+      "allele1" : 233.0,
+      "allele2" : 237.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 288.0
+    },
+    "PEZ01" : {
+      "allele1" : 116.0,
+      "allele2" : 128.0
+    },
+    "PEZ03" : {
+      "allele1" : 150.0,
+      "allele2" : 130.0
+    },
+    "PEZ05" : {
+      "allele1" : 110.0,
+      "allele2" : 102.0
+    },
+    "PEZ06" : {
+      "allele1" : 174.0,
+      "allele2" : 174.0
+    },
+    "PEZ08" : {
+      "allele1" : 228.0,
+      "allele2" : 224.0
+    },
+    "PEZ12" : {
+      "allele1" : 266.0,
+      "allele2" : 274.0
+    },
+    "PEZ20" : {
+      "allele1" : 180.0,
+      "allele2" : 188.0
+    },
+    "FH2328" : {
+      "allele1" : 170.0,
+      "allele2" : 166.0
+    },
+    "FH2001" : {
+      "allele1" : 132.0,
+      "allele2" : 148.0
+    },
+    "AHT121" : {
+      "allele1" : 84.0,
+      "allele2" : 96.0
+    },
+    "AHT137" : {
+      "allele1" : 134.0,
+      "allele2" : 134.0
+    },
+    "AHTk211" : {
+      "allele1" : 95.0,
+      "allele2" : 99.0
+    }
+  }
+}, {
+  "id" : "MR-0022",
+  "name" : "Sarı",
+  "species" : "dog",
+  "relationship" : "sibling",
+  "submittedBy" : "Fatma Doğan",
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 164.0,
+      "allele2" : 156.0
+    },
+    "FH2010" : {
+      "allele1" : 245.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 284.0
+    },
+    "PEZ01" : {
+      "allele1" : 116.0,
+      "allele2" : 128.0
+    },
+    "PEZ03" : {
+      "allele1" : 146.0,
+      "allele2" : 130.0
+    },
+    "PEZ05" : {
+      "allele1" : 102.0,
+      "allele2" : 98.0
+    },
+    "PEZ06" : {
+      "allele1" : 170.0,
+      "allele2" : 182.0
+    },
+    "PEZ08" : {
+      "allele1" : 236.0,
+      "allele2" : 236.0
+    },
+    "PEZ12" : {
+      "allele1" : 270.0,
+      "allele2" : 262.0
+    },
+    "PEZ20" : {
+      "allele1" : 172.0,
+      "allele2" : 188.0
+    },
+    "FH2328" : {
+      "allele1" : 166.0,
+      "allele2" : 170.0
+    },
+    "FH2001" : {
+      "allele1" : 132.0,
+      "allele2" : 140.0
+    },
+    "AHT121" : {
+      "allele1" : 88.0,
+      "allele2" : 84.0
+    },
+    "AHT137" : {
+      "allele1" : 146.0,
+      "allele2" : 138.0
+    },
+    "AHTk211" : {
+      "allele1" : 99.0,
+      "allele2" : 99.0
+    }
+  }
+}, {
+  "id" : "MR-0023",
+  "name" : "Bıdık",
+  "species" : "cat",
+  "relationship" : "parent",
+  "submittedBy" : "Hatice Kurt",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 137.0,
+      "allele2" : 133.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 218.0
+    },
+    "FCA740" : {
+      "allele1" : 184.0,
+      "allele2" : 184.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 118.0
+    },
+    "FCA749" : {
+      "allele1" : 138.0,
+      "allele2" : 138.0
+    },
+    "FCA026" : {
+      "allele1" : 158.0,
+      "allele2" : 142.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 98.0
+    },
+    "FCA075" : {
+      "allele1" : 122.0,
+      "allele2" : 126.0
+    },
+    "FCA105" : {
+      "allele1" : 202.0,
+      "allele2" : 206.0
+    },
+    "FCA149" : {
+      "allele1" : 136.0,
+      "allele2" : 132.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 224.0
+    },
+    "FCA229" : {
+      "allele1" : 158.0,
+      "allele2" : 166.0
+    },
+    "FCA310" : {
+      "allele1" : 100.0,
+      "allele2" : 116.0
+    },
+    "FCA391" : {
+      "allele1" : 202.0,
+      "allele2" : 194.0
+    },
+    "FCA453" : {
+      "allele1" : 156.0,
+      "allele2" : 160.0
+    }
+  }
+}, {
+  "id" : "MR-0024",
+  "name" : "Karamel",
+  "species" : "cat",
+  "relationship" : "self",
+  "submittedBy" : "Ibrahim Şimşek",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 141.0,
+      "allele2" : 141.0
+    },
+    "FCA723" : {
+      "allele1" : 230.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : null,
+      "allele2" : 180.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 126.0
+    },
+    "FCA749" : {
+      "allele1" : 122.0,
+      "allele2" : 130.0
+    },
+    "FCA026" : {
+      "allele1" : 150.0,
+      "allele2" : 146.0
+    },
+    "FCA069" : {
+      "allele1" : 86.0,
+      "allele2" : 102.0
+    },
+    "FCA075" : {
+      "allele1" : 130.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : null,
+      "allele2" : 194.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 124.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 208.0
+    },
+    "FCA229" : {
+      "allele1" : 166.0,
+      "allele2" : 162.0
+    },
+    "FCA310" : {
+      "allele1" : 116.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 206.0,
+      "allele2" : 202.0
+    },
+    "FCA453" : {
+      "allele1" : 152.0,
+      "allele2" : 148.0
+    }
+  }
+}, {
+  "id" : "MR-0025",
+  "name" : "Paşa",
+  "species" : "dog",
+  "relationship" : "sibling",
+  "submittedBy" : "Hakan Kaya",
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 156.0,
+      "allele2" : 156.0
+    },
+    "FH2010" : {
+      "allele1" : 233.0,
+      "allele2" : 241.0
+    },
+    "FH2079" : {
+      "allele1" : 272.0,
+      "allele2" : 280.0
+    },
+    "PEZ01" : {
+      "allele1" : 128.0,
+      "allele2" : 128.0
+    },
+    "PEZ03" : {
+      "allele1" : 142.0,
+      "allele2" : 142.0
+    },
+    "PEZ05" : {
+      "allele1" : 110.0,
+      "allele2" : 102.0
+    },
+    "PEZ06" : {
+      "allele1" : 174.0,
+      "allele2" : 182.0
+    },
+    "PEZ08" : {
+      "allele1" : 224.0,
+      "allele2" : 236.0
+    },
+    "PEZ12" : {
+      "allele1" : 270.0,
+      "allele2" : 278.0
+    },
+    "PEZ20" : {
+      "allele1" : 172.0,
+      "allele2" : 176.0
+    },
+    "FH2328" : {
+      "allele1" : 158.0,
+      "allele2" : 162.0
+    },
+    "FH2001" : {
+      "allele1" : 148.0,
+      "allele2" : 144.0
+    },
+    "AHT121" : {
+      "allele1" : 80.0,
+      "allele2" : 88.0
+    },
+    "AHT137" : {
+      "allele1" : 138.0,
+      "allele2" : 138.0
+    },
+    "AHTk211" : {
+      "allele1" : 103.0,
+      "allele2" : 87.0
+    }
+  }
+}, {
+  "id" : "MR-0026",
+  "name" : "Zeytin",
+  "species" : "cat",
+  "relationship" : "self",
+  "submittedBy" : "Sude Yılmaz",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 133.0,
+      "allele2" : 137.0
+    },
+    "FCA723" : {
+      "allele1" : 226.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 192.0,
+      "allele2" : 192.0
+    },
+    "FCA742" : {
+      "allele1" : 122.0,
+      "allele2" : 114.0
+    },
+    "FCA749" : {
+      "allele1" : 134.0,
+      "allele2" : 122.0
+    },
+    "FCA026" : {
+      "allele1" : 154.0,
+      "allele2" : 154.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 90.0
+    },
+    "FCA075" : {
+      "allele1" : 130.0,
+      "allele2" : 130.0
+    },
+    "FCA105" : {
+      "allele1" : 194.0,
+      "allele2" : 202.0
+    },
+    "FCA149" : {
+      "allele1" : 132.0,
+      "allele2" : 124.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 208.0
+    },
+    "FCA229" : {
+      "allele1" : 166.0,
+      "allele2" : 166.0
+    },
+    "FCA310" : {
+      "allele1" : 100.0,
+      "allele2" : 104.0
+    },
+    "FCA391" : {
+      "allele1" : 210.0,
+      "allele2" : 202.0
+    },
+    "FCA453" : {
+      "allele1" : 148.0,
+      "allele2" : 160.0
+    }
+  }
+}, {
+  "id" : "MR-0027",
+  "name" : "Özge Yıldız",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Emre Yıldırım",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 16.0,
+      "allele2" : 19.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 11.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 9.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 19.0
+    },
+    "D8S1179" : {
+      "allele1" : 17.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 7.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 22.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 13.2,
+      "allele2" : 12.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 11.0
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 11.3,
+      "allele2" : 13.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 20.0,
+      "allele2" : 26.0
+    }
+  }
+}, {
+  "id" : "MR-0028",
+  "name" : "Tuğçe Arslan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Leyla Arslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 7.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 30.0
+    },
+    "D18S51" : {
+      "allele1" : 20.0,
+      "allele2" : 10.0
+    },
+    "D5S818" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 9.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "D8S1179" : {
+      "allele1" : 12.0,
+      "allele2" : 9.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 27.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.3,
+      "allele2" : 15.3
+    },
+    "D12S391" : {
+      "allele1" : 21.0,
+      "allele2" : 22.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 22.0,
+      "allele2" : 21.0
+    }
+  }
+}, {
+  "id" : "MR-0029",
+  "name" : "Boncuk",
+  "species" : "cat",
+  "relationship" : "self",
+  "submittedBy" : "Hakan Güneş",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 149.0,
+      "allele2" : 149.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 222.0
+    },
+    "FCA740" : {
+      "allele1" : 180.0,
+      "allele2" : 184.0
+    },
+    "FCA742" : {
+      "allele1" : 122.0,
+      "allele2" : 126.0
+    },
+    "FCA749" : {
+      "allele1" : 138.0,
+      "allele2" : 134.0
+    },
+    "FCA026" : {
+      "allele1" : 142.0,
+      "allele2" : 146.0
+    },
+    "FCA069" : {
+      "allele1" : 90.0,
+      "allele2" : 98.0
+    },
+    "FCA075" : {
+      "allele1" : 118.0,
+      "allele2" : 126.0
+    },
+    "FCA105" : {
+      "allele1" : 194.0,
+      "allele2" : 198.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 124.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 224.0
+    },
+    "FCA229" : {
+      "allele1" : 162.0,
+      "allele2" : 158.0
+    },
+    "FCA310" : {
+      "allele1" : 100.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 202.0,
+      "allele2" : 210.0
+    },
+    "FCA453" : {
+      "allele1" : 164.0,
+      "allele2" : 160.0
+    }
+  }
+}, {
+  "id" : "MR-0030",
+  "name" : "Tekir",
+  "species" : "dog",
+  "relationship" : "self",
+  "submittedBy" : "Nihan Çelik",
+  "dnaProfile" : {
+    "FH2054" : {
+      "allele1" : 164.0,
+      "allele2" : 164.0
+    },
+    "FH2010" : {
+      "allele1" : 241.0,
+      "allele2" : 233.0
+    },
+    "FH2079" : {
+      "allele1" : 284.0,
+      "allele2" : 288.0
+    },
+    "PEZ01" : {
+      "allele1" : 112.0,
+      "allele2" : 124.0
+    },
+    "PEZ03" : {
+      "allele1" : 130.0,
+      "allele2" : 146.0
+    },
+    "PEZ05" : {
+      "allele1" : 110.0,
+      "allele2" : 102.0
+    },
+    "PEZ06" : {
+      "allele1" : 174.0,
+      "allele2" : 170.0
+    },
+    "PEZ08" : {
+      "allele1" : 220.0,
+      "allele2" : 228.0
+    },
+    "PEZ12" : {
+      "allele1" : 278.0,
+      "allele2" : 278.0
+    },
+    "PEZ20" : {
+      "allele1" : 180.0,
+      "allele2" : 184.0
+    },
+    "FH2328" : {
+      "allele1" : 174.0,
+      "allele2" : 174.0
+    },
+    "FH2001" : {
+      "allele1" : 144.0,
+      "allele2" : 132.0
+    },
+    "AHT121" : {
+      "allele1" : 96.0,
+      "allele2" : 84.0
+    },
+    "AHT137" : {
+      "allele1" : 138.0,
+      "allele2" : 130.0
+    },
+    "AHTk211" : {
+      "allele1" : 91.0,
+      "allele2" : 95.0
+    }
+  }
+}, {
+  "id" : "MR-0031",
+  "name" : "Hakan Polat",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Mustafa Yılmaz",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 19.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 6.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 31.0
+    },
+    "D18S51" : {
+      "allele1" : 16.0,
+      "allele2" : 11.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 14.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 7.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 24.0,
+      "allele2" : 21.0
+    },
+    "D2S1338" : {
+      "allele1" : 18.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 16.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 24.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "MR-0032",
+  "name" : "Deniz Aktaş",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Burak Çetin",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 16.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 7.0
+    },
+    "D21S11" : {
+      "allele1" : 27.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 22.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 9.0,
+      "allele2" : 12.0
+    },
+    "D7S820" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "vWA" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "TPOX" : {
+      "allele1" : 7.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 29.0,
+      "allele2" : 23.0
+    },
+    "D2S1338" : {
+      "allele1" : 20.0,
+      "allele2" : 25.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 17.0,
+      "allele2" : 25.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 14.0
+    },
+    "SE33" : {
+      "allele1" : 25.0,
+      "allele2" : 28.0
+    }
+  }
+}, {
+  "id" : "MR-0033",
+  "name" : "Emine Koç",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Furkan Kaya",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 17.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 10.0
+    },
+    "D21S11" : {
+      "allele1" : 31.0,
+      "allele2" : 30.2
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 17.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 13.0,
+      "allele2" : 16.0
+    },
+    "TPOX" : {
+      "allele1" : 13.0,
+      "allele2" : 8.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 24.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 14.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.3,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 18.3,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "D10S1248" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "SE33" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    }
+  }
+}, {
+  "id" : "MR-0034",
+  "name" : "Selin Yıldız",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Cem Aslan",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 14.0,
+      "allele2" : 18.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 28.0,
+      "allele2" : 33.2
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 14.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 7.0
+    },
+    "D13S317" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D7S820" : {
+      "allele1" : 14.0,
+      "allele2" : 9.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 9.0,
+      "allele2" : 8.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 16.0
+    },
+    "D8S1179" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "TPOX" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 19.0
+    },
+    "D2S1338" : {
+      "allele1" : 17.0,
+      "allele2" : 23.0
+    },
+    "D19S433" : {
+      "allele1" : 16.0,
+      "allele2" : 15.2
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D2S441" : {
+      "allele1" : 16.0,
+      "allele2" : 10.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    }
+  }
+}, {
+  "id" : "MR-0035",
+  "name" : "Fatma Yıldırım",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Zeynep Şahin",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 18.0,
+      "allele2" : 17.0
+    },
+    "TH01" : {
+      "allele1" : 10.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 27.0
+    },
+    "D18S51" : {
+      "allele1" : 15.0,
+      "allele2" : 12.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 14.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 14.0
+    },
+    "D7S820" : {
+      "allele1" : 8.0,
+      "allele2" : 7.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 11.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 18.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 9.0,
+      "allele2" : 10.0
+    },
+    "TPOX" : {
+      "allele1" : 12.0,
+      "allele2" : 6.0
+    },
+    "FGA" : {
+      "allele1" : 23.0,
+      "allele2" : 29.0
+    },
+    "D2S1338" : {
+      "allele1" : 16.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "D12S391" : {
+      "allele1" : 22.0,
+      "allele2" : 18.3
+    },
+    "D2S441" : {
+      "allele1" : 13.0,
+      "allele2" : 11.0
+    },
+    "D10S1248" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 14.0,
+      "allele2" : 27.0
+    }
+  }
+}, {
+  "id" : "MR-0036",
+  "name" : "Duman",
+  "species" : "cat",
+  "relationship" : "self",
+  "submittedBy" : "Cem Erdoğan",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 133.0,
+      "allele2" : 145.0
+    },
+    "FCA723" : {
+      "allele1" : 226.0,
+      "allele2" : 226.0
+    },
+    "FCA740" : {
+      "allele1" : 188.0,
+      "allele2" : 192.0
+    },
+    "FCA742" : {
+      "allele1" : 118.0,
+      "allele2" : 110.0
+    },
+    "FCA749" : {
+      "allele1" : 130.0,
+      "allele2" : 138.0
+    },
+    "FCA026" : {
+      "allele1" : 154.0,
+      "allele2" : 142.0
+    },
+    "FCA069" : {
+      "allele1" : 94.0,
+      "allele2" : 94.0
+    },
+    "FCA075" : {
+      "allele1" : 134.0,
+      "allele2" : 122.0
+    },
+    "FCA105" : {
+      "allele1" : 190.0,
+      "allele2" : 206.0
+    },
+    "FCA149" : {
+      "allele1" : 128.0,
+      "allele2" : 136.0
+    },
+    "FCA220" : {
+      "allele1" : 216.0,
+      "allele2" : 208.0
+    },
+    "FCA229" : {
+      "allele1" : 170.0,
+      "allele2" : 162.0
+    },
+    "FCA310" : {
+      "allele1" : 116.0,
+      "allele2" : 108.0
+    },
+    "FCA391" : {
+      "allele1" : 206.0,
+      "allele2" : 210.0
+    },
+    "FCA453" : {
+      "allele1" : 152.0,
+      "allele2" : 152.0
+    }
+  }
+}, {
+  "id" : "MR-0037",
+  "name" : "Meryem Erdoğan",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Burak Güneş",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 13.0,
+      "allele2" : 12.0
+    },
+    "TH01" : {
+      "allele1" : 5.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 33.0,
+      "allele2" : 33.0
+    },
+    "D18S51" : {
+      "allele1" : 13.0,
+      "allele2" : 15.0
+    },
+    "D5S818" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 10.0
+    },
+    "D7S820" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "D16S539" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 20.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "TPOX" : {
+      "allele1" : 11.0,
+      "allele2" : 13.0
+    },
+    "FGA" : {
+      "allele1" : 30.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 19.0,
+      "allele2" : 21.0
+    },
+    "D19S433" : {
+      "allele1" : 17.0,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 15.3,
+      "allele2" : 17.0
+    },
+    "D12S391" : {
+      "allele1" : 20.0,
+      "allele2" : 19.0
+    },
+    "D2S441" : {
+      "allele1" : 10.0,
+      "allele2" : 14.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 13.0
+    },
+    "SE33" : {
+      "allele1" : 15.0,
+      "allele2" : 17.0
+    }
+  }
+}, {
+  "id" : "MR-0038",
+  "name" : "Yusuf Korkmaz",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Mehmet Çetin",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 16.0
+    },
+    "TH01" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D21S11" : {
+      "allele1" : 32.2,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "D5S818" : {
+      "allele1" : 13.0,
+      "allele2" : 9.0
+    },
+    "D13S317" : {
+      "allele1" : 13.0,
+      "allele2" : 13.0
+    },
+    "D7S820" : {
+      "allele1" : 12.0,
+      "allele2" : 12.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 7.0,
+      "allele2" : 13.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 14.0
+    },
+    "D8S1179" : {
+      "allele1" : 16.0,
+      "allele2" : 12.0
+    },
+    "TPOX" : {
+      "allele1" : 6.0,
+      "allele2" : 9.0
+    },
+    "FGA" : {
+      "allele1" : 20.0,
+      "allele2" : 26.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 18.0
+    },
+    "D19S433" : {
+      "allele1" : 12.0,
+      "allele2" : 15.0
+    },
+    "D1S1656" : {
+      "allele1" : 17.0,
+      "allele2" : 13.0
+    },
+    "D12S391" : {
+      "allele1" : 23.0,
+      "allele2" : 21.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 16.0
+    },
+    "D10S1248" : {
+      "allele1" : 14.0,
+      "allele2" : 12.0
+    },
+    "SE33" : {
+      "allele1" : 14.0,
+      "allele2" : 24.0
+    }
+  }
+}, {
+  "id" : "MR-0039",
+  "name" : "Deniz Kurt",
+  "species" : "human",
+  "relationship" : "self",
+  "submittedBy" : "Selin Yıldırım",
+  "dnaProfile" : {
+    "D3S1358" : {
+      "allele1" : 15.0,
+      "allele2" : 15.0
+    },
+    "TH01" : {
+      "allele1" : 6.0,
+      "allele2" : 9.3
+    },
+    "D21S11" : {
+      "allele1" : 30.2,
+      "allele2" : 28.0
+    },
+    "D18S51" : {
+      "allele1" : 18.0,
+      "allele2" : 11.0
+    },
+    "D5S818" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "D13S317" : {
+      "allele1" : 8.0,
+      "allele2" : 8.0
+    },
+    "D7S820" : {
+      "allele1" : 9.0,
+      "allele2" : 14.0
+    },
+    "D16S539" : {
+      "allele1" : 9.0,
+      "allele2" : 13.0
+    },
+    "CSF1PO" : {
+      "allele1" : 8.0,
+      "allele2" : 12.0
+    },
+    "vWA" : {
+      "allele1" : 16.0,
+      "allele2" : 20.0
+    },
+    "D8S1179" : {
+      "allele1" : 14.0,
+      "allele2" : 17.0
+    },
+    "TPOX" : {
+      "allele1" : 10.0,
+      "allele2" : 11.0
+    },
+    "FGA" : {
+      "allele1" : 21.0,
+      "allele2" : 18.0
+    },
+    "D2S1338" : {
+      "allele1" : 26.0,
+      "allele2" : 17.0
+    },
+    "D19S433" : {
+      "allele1" : 14.0,
+      "allele2" : 13.0
+    },
+    "D1S1656" : {
+      "allele1" : 14.0,
+      "allele2" : 17.3
+    },
+    "D12S391" : {
+      "allele1" : 24.0,
+      "allele2" : 23.0
+    },
+    "D2S441" : {
+      "allele1" : 11.0,
+      "allele2" : 12.0
+    },
+    "D10S1248" : {
+      "allele1" : 12.0,
+      "allele2" : 17.0
+    },
+    "SE33" : {
+      "allele1" : 17.0,
+      "allele2" : 25.0
+    }
+  }
+}, {
+  "id" : "MR-0040",
+  "name" : "Maviş",
+  "species" : "cat",
+  "relationship" : "self",
+  "submittedBy" : "Ahmet Kaya",
+  "dnaProfile" : {
+    "FCA441" : {
+      "allele1" : 145.0,
+      "allele2" : 145.0
+    },
+    "FCA723" : {
+      "allele1" : 214.0,
+      "allele2" : 218.0
+    },
+    "FCA740" : {
+      "allele1" : 192.0,
+      "allele2" : 188.0
+    },
+    "FCA742" : {
+      "allele1" : 126.0,
+      "allele2" : 114.0
+    },
+    "FCA749" : {
+      "allele1" : 126.0,
+      "allele2" : 134.0
+    },
+    "FCA026" : {
+      "allele1" : 154.0,
+      "allele2" : 150.0
+    },
+    "FCA069" : {
+      "allele1" : 86.0,
+      "allele2" : 90.0
+    },
+    "FCA075" : {
+      "allele1" : 118.0,
+      "allele2" : 118.0
+    },
+    "FCA105" : {
+      "allele1" : 190.0,
+      "allele2" : 206.0
+    },
+    "FCA149" : {
+      "allele1" : 132.0,
+      "allele2" : 128.0
+    },
+    "FCA220" : {
+      "allele1" : 212.0,
+      "allele2" : 224.0
+    },
+    "FCA229" : {
+      "allele1" : 162.0,
+      "allele2" : 170.0
+    },
+    "FCA310" : {
+      "allele1" : 108.0,
+      "allele2" : 112.0
+    },
+    "FCA391" : {
+      "allele1" : 202.0,
+      "allele2" : 210.0
+    },
+    "FCA453" : {
+      "allele1" : 148.0,
+      "allele2" : 156.0
+    }
+  }
+} ]

@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Gradle cache
+.gradle/
+
+# Build outputs
+build/
+
+# macOS
+.DS_Store
+
+# Java
+*.class
