@@ -1,5 +1,9 @@
 # Earthquake Disaster Response System
 
+## Project Preview
+
+![Earthquake Disaster Response System](docs/map-visualization.png)
+
 ## Overview
 
 A Java-based disaster response platform designed to identify and match missing persons and pets using DNA profiles and GPS location data following a large-scale earthquake.
