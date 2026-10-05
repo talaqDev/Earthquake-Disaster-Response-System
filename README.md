@@ -12,6 +12,20 @@ The system processes reports from rescue teams and families, filters invalid DNA
 
 ---
 
+## Project Preview
+
+![Earthquake Disaster Response System](docs/map-visualization.png)
+
+*Interactive visualization showing DNA match results, disaster-zone analysis, geographic clustering, and emergency-response statistics generated from 9,600 disaster events.*
+
+## Key Results
+
+- Processed 9,600 disaster events
+- Identified 2,919 DNA matches
+- Filtered 1,200 invalid DNA records
+- Computed a 781 km² disaster zone
+- Generated geographic visualizations and response metrics
+
 ## Technologies
 
 - Java
