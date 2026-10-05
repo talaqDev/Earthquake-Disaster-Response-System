@@ -4,20 +4,6 @@
 
 ![Earthquake Disaster Response System](docs/map-visualization.png)
 
-## Overview
-
-A Java-based disaster response platform designed to identify and match missing persons and pets using DNA profiles and GPS location data following a large-scale earthquake.
-
-The system processes reports from rescue teams and families, filters invalid DNA samples, identifies potential matches, computes disaster zones, and prioritizes cases for emergency response.
-
----
-
-## Project Preview
-
-![Earthquake Disaster Response System](docs/map-visualization.png)
-
-*Interactive visualization showing DNA match results, disaster-zone analysis, geographic clustering, and emergency-response statistics generated from 9,600 disaster events.*
-
 ## Key Results
 
 - Processed 9,600 disaster events
@@ -25,6 +11,14 @@ The system processes reports from rescue teams and families, filters invalid DNA
 - Filtered 1,200 invalid DNA records
 - Computed a 781 km² disaster zone
 - Generated geographic visualizations and response metrics
+
+## Overview
+
+A Java-based disaster response platform designed to identify and match missing persons and pets using DNA profiles and GPS location data following a large-scale earthquake.
+
+The system processes reports from rescue teams and families, filters invalid DNA samples, identifies potential matches, computes disaster zones, and prioritizes cases for emergency response.
+
+---
 
 ## Technologies
 
